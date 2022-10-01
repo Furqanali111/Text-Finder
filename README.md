@@ -1,4 +1,6 @@
 # Text-Finder
+This project work on the same principal as other text finder apps or the **to find** function in microsoft word to find text from the given data.
+# Working
 1)In This project we are using Robin karp algorithm to search and locate words from a given sentence.                 
 2)We have already given the program a test sentence to search pattern given by the user.                         
 3)This project work exactly like the find function in many programs like the microsoft word.                    
